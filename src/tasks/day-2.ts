@@ -33,7 +33,6 @@ function solvePart1(data: string[]): number {
         if (temp >= min && temp <= max) {
             validCount ++;
         }
-
     }
     return validCount;
 }
