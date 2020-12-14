@@ -9,8 +9,8 @@ export default function start1(file: string) {
     let resultPart1: number = solvePart1(data);
     let resultPart2: number = solvePart2(data);
 
-    console.log(`Task 1-1: ${resultPart1}`);
-    console.log(`Task 1-2: ${resultPart2}`);
+    console.log(`Day 1-1: ${resultPart1}`);
+    console.log(`Day 1-2: ${resultPart2}`);
 }
 
 /**
