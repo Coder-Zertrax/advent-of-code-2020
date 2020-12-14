@@ -14,7 +14,7 @@ export default function start2(file: string) {
 }
 
 /**
- * Day 1 - Part 1
+ * Day 2 - Part 1
  */
 function solvePart1(data: string[]): number {
     let validCount: number = 0;
@@ -38,7 +38,7 @@ function solvePart1(data: string[]): number {
 }
 
 /**
- * Day 1 - Part 2
+ * Day 2 - Part 2
  */
 function solvePart2(data: string[]): number {
     let validCount: number = 0;
